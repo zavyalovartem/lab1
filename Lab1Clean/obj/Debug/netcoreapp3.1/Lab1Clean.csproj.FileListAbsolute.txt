@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\obj\Debug\netcoreapp3.1\Lab1Clean.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\obj\Debug\netcoreapp3.1\Lab1Clean.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\obj\Debug\netcoreapp3.1\Lab1Clean.AssemblyInfo.cs
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\obj\Debug\netcoreapp3.1\Lab1Clean.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\bin\Debug\netcoreapp3.1\Lab1Clean.exe
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\bin\Debug\netcoreapp3.1\Lab1Clean.deps.json
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\bin\Debug\netcoreapp3.1\Lab1Clean.runtimeconfig.json
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\bin\Debug\netcoreapp3.1\Lab1Clean.runtimeconfig.dev.json
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\bin\Debug\netcoreapp3.1\Lab1Clean.dll
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\bin\Debug\netcoreapp3.1\Lab1Clean.pdb
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\obj\Debug\netcoreapp3.1\Lab1Clean.csproj.CopyComplete
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\obj\Debug\netcoreapp3.1\Lab1Clean.dll
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\obj\Debug\netcoreapp3.1\Lab1Clean.pdb
+C:\Users\1\source\repos\Lab1Clean\Lab1Clean\obj\Debug\netcoreapp3.1\Lab1Clean.genruntimeconfig.cache
